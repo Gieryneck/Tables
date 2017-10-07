@@ -1,0 +1,17 @@
+button {
+
+ 	font-size: 20px;
+ 	color: #fff;
+ 	border-radius: 5px;
+ 	background-color: #00968b;
+ 	padding: 8px 16px;
+ 	box-shadow: 4px 4px 2px #00453f;
+ 	margin-bottom: 20px;
+ 	cursor: pointer; 
+ 	display: block;
+ 	margin: 0 auto;
+ 	margin-top: 20vh;
+ 	font-family: Open Sans, sans serif;
+ 	letter-spacing: 0.05em;
+}
+
